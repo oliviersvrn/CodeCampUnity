@@ -1,10 +1,8 @@
-# CodeCampWIN
-Le Code Camp WINDOWS du turfu !
+# CodeCamp WINDOWS
 
 
+#Project Name : Still not found
 
+#Description :
 
-
-
-
-OUAI GROS !
+A fusion between the Metroid-like and the Rogue-like genres. With time travel. And Megalovania. Cuz it's a cool boss music.
