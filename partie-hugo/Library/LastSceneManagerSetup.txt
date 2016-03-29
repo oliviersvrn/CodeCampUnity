@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/map_prehistoire_hugo/map_prehistoire_6.unity
-  isLoaded: 1
-  isActive: 1
