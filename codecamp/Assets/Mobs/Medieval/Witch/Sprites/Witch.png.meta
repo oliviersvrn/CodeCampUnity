@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: c622c8354a43d4ab586af210ed9f1ad8
+timeCreated: 1458833375
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Witch_3
+    21300002: Witch_4
+    21300004: Witch_5
+    21300006: Witch_6
+    21300008: Witch_24
+    21300010: Witch_25
+    21300012: Witch_26
+    21300014: Witch_27
+    21300016: Witch_31
+    21300018: Witch_37
+    21300020: Witch_38
+    21300022: Witch_39
+    21300024: Witch_40
+    21300026: Witch_43
+    21300028: Witch_49
+    21300030: Witch_72
+    21300032: Witch_76
+    21300034: Witch_80
+    21300036: Witch_82
+    21300038: Witch_89
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Witch_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 661
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 28.5}
+        - {x: -5, y: 28.5}
+        - {x: -32, y: 9.5}
+        - {x: -32, y: -11.5}
+        - {x: -12, y: -28.5}
+        - {x: 21, y: -28.5}
+        - {x: 25, y: -27.5}
+        - {x: 32, y: 6.5}
+        - {x: 32, y: 26.5}
+    - name: Witch_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 661
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.4848803, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.422302, y: 23.5}
+        - {x: 26.422302, y: 23.5}
+        - {x: 20.422302, y: 28.5}
+        - {x: -7.5776978, y: 28.5}
+        - {x: -29.577698, y: 22.5}
+        - {x: -29.577698, y: -11.5}
+        - {x: -6.5776978, y: -28.5}
+        - {x: 17.422302, y: -28.5}
+        - {x: 20.422302, y: -25.5}
+        - {x: 31.422302, y: 1.5}
+    - name: Witch_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 661
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 10.5}
+        - {x: 32, y: 23.5}
+        - {x: 27, y: 23.5}
+        - {x: 20, y: 28.5}
+        - {x: -8, y: 28.5}
+        - {x: -32, y: 16.5}
+        - {x: -32, y: -10.5}
+        - {x: -20, y: -28.5}
+        - {x: 20, y: -28.5}
+        - {x: 21, y: -25.5}
+        - {x: 23, y: -14.5}
+        - {x: 30, y: 5.5}
+    - name: Witch_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 573
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 31.5}
+        - {x: -31, y: 14.5}
+        - {x: -31, y: -15.5}
+        - {x: -21, y: -31.5}
+        - {x: 27, y: -31.5}
+        - {x: 31, y: -20.5}
+        - {x: 31, y: 23.5}
+        - {x: 27, y: 31.5}
+    - name: Witch_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 377
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: -1.5}
+        - {x: 37.5, y: 6.5}
+        - {x: 15.5, y: 36.5}
+        - {x: 5.5, y: 36.5}
+        - {x: -18.5, y: 23.5}
+        - {x: -37.5, y: 9.5}
+        - {x: -37.5, y: -18.5}
+        - {x: -25.5, y: -36.5}
+        - {x: 14.5, y: -36.5}
+        - {x: 15.5, y: -33.5}
+        - {x: 14.5, y: -30.5}
+        - {x: 26.5, y: -22.5}
+    - name: Witch_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 377
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 37}
+        - {x: -15.5, y: 35}
+        - {x: -32.5, y: 7}
+        - {x: -32.5, y: -15}
+        - {x: -30.5, y: -17}
+        - {x: -27.5, y: -16}
+        - {x: -27.5, y: -17}
+        - {x: -10.5, y: -37}
+        - {x: 24.5, y: -37}
+        - {x: 32.5, y: -17}
+        - {x: 32.5, y: 31}
+        - {x: 11.5, y: 37}
+    - name: Witch_26
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 377
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 37}
+        - {x: -29, y: 32}
+        - {x: -34, y: 10}
+        - {x: -34, y: -20}
+        - {x: -16, y: -37}
+        - {x: 21, y: -37}
+        - {x: 34, y: -29}
+        - {x: 34, y: 18}
+        - {x: 18, y: 37}
+    - name: Witch_27
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 377
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 37}
+        - {x: -17, y: 37}
+        - {x: -34, y: 13}
+        - {x: -34, y: -16}
+        - {x: -18, y: -37}
+        - {x: 24, y: -37}
+        - {x: 32, y: -31}
+        - {x: 34, y: -26}
+        - {x: 34, y: 28}
+    - name: Witch_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 280
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 38.5}
+        - {x: 4.5, y: 37.5}
+        - {x: 4.5, y: 33.5}
+        - {x: 6.5, y: 27.5}
+        - {x: 9.5, y: 23.5}
+        - {x: -6.5, y: 30.5}
+        - {x: -18.5, y: 30.5}
+        - {x: -35.5, y: 9.5}
+        - {x: -35.5, y: -16.5}
+        - {x: -19.5, y: -38.5}
+        - {x: 31.5, y: -38.5}
+        - {x: 35.5, y: -28.5}
+        - {x: 35.5, y: 22.5}
+        - {x: 15.5, y: 38.5}
+    - name: Witch_38
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 280
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 35}
+        - {x: 26, y: 35}
+        - {x: 20, y: 31}
+        - {x: -12, y: 32}
+        - {x: -34, y: 4}
+        - {x: -34, y: -15}
+        - {x: -33, y: -18}
+        - {x: -11, y: -35}
+        - {x: 16, y: -35}
+        - {x: 32, y: -18}
+        - {x: 34, y: 0}
+    - name: Witch_39
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 280
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 35}
+        - {x: -35.5, y: 10}
+        - {x: -35.5, y: -14}
+        - {x: -10.5, y: -35}
+        - {x: 32.5, y: -35}
+        - {x: 35.5, y: -24}
+        - {x: 35.5, y: 35}
+    - name: Witch_40
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 280
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 35}
+        - {x: -35.5, y: 20}
+        - {x: -35.5, y: -18}
+        - {x: -24.5, y: -35}
+        - {x: 21.5, y: -35}
+        - {x: 30.5, y: -29}
+        - {x: 35.5, y: -15}
+        - {x: 35.5, y: 35}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
