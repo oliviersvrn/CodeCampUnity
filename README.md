@@ -1,5 +1,5 @@
 # CodeCampWIN
-The Time Wanderer - A small 2D Rogue-Like made with Unity in 2 weeks
+The Time Wanderer (School project) - A small 2D Rogue-Like made with Unity in 2 weeks
 
 #Controls
 - Arrow keys to move
